@@ -1,9 +1,9 @@
 const axios = require('axios');
-const badWords = ["gay", "pussy", "dick","nude"," without","clothes","sugar","fuck","fucked","step","🤭","🍼","shit","bitch","hentai","🥵","clothes","sugar","fuck","fucked","step","?","?","shit","bitch","hentai","?","sex","fuck","boobs","cute girl undressed","undressed", "nude","without clothes", "without cloth"];
+const badWords = ["_"];
 
 module.exports = {
   config: {
-    name: 'imagine',
+    name: 'gn',
     version: '1.0',
     author: 'rehat--',
     countDown: 0,
